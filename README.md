@@ -1,4 +1,3 @@
-# ComparadorDeArquivosDelphi
+# Projeto para comparar arquivos em Delphi
 
-Aplicação que compara dois arquivos pelo MD5.
-
+Este repositório possui um exemplo de implementação para comparar dois arquivos pelo MD5.
